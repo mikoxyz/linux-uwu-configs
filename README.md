@@ -4,7 +4,7 @@ These configs use the following optimizations that are not enabled by default in
 
 * Preemtible kernel
 
-* Native optimizations detected by GCC (courtesy of graysky2's [gcc optimization patch](https://github.com/graysky2/kernel_gcc_patch).)
+* Native optimizations detected by GCC (courtesy of graysky2's [gcc optimization patch](https://github.com/graysky2/kernel_gcc_patch))
 
 * 1000Hz timer frequency
 
